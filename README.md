@@ -5,11 +5,11 @@
 
 1. 收集即時的股票資訊
 
-3. 分析股票過去的資料
+2. 分析股票過去的資料
 
-5. 產生短、中、長期的均線圖
+3. 產生短、中、長期的均線圖
 
-7. 計算夏普及威廉指標
+4. 計算夏普及威廉指標
 
 ---
 
@@ -17,7 +17,7 @@
 
 1. TDD: Python unittest + Coverage
 
-3. Fuzz testing: Google Atheris
+2. Fuzz testing: Google Atheris
 
 ---
 
@@ -31,11 +31,11 @@ Will be uploaded AfterWard
     * Python 3.6: `Stockbot\stockapi.py`
     * Python 3.10: `Stockbot\stockapi_310.py`
 
-3. 股票機器人Linebot: `Stockbot\stockbot.py`
+2. 股票機器人Linebot: `Stockbot\stockbot.py`
 
-4. 股票機器人Test Case: `Stockbot\test\*`
+3. 股票機器人Test Case: `Stockbot\test\*`
 
-5. 股票機器人API FuzzTesting:　`Stockbot\fuzz_test\*`
+4. 股票機器人API FuzzTesting:　`Stockbot\fuzz_test\*`
 
 ---
 
@@ -174,6 +174,8 @@ https://github.com/google/atheris
 
 https://bandit.readthedocs.io/en/latest/
 
+https://twstock.readthedocs.io/zh-tw/latest/index.html
 
+https://steam.oxxostudio.tw/category/python/example/line-bot.html
 
 

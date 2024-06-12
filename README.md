@@ -157,8 +157,11 @@ You can also watch the details on the `Stockbot\htmlcov\index.html` from your Br
 ## Reference
 
 https://docs.python.org/zh-tw/3.10/library/unittest.html
+
 https://coverage.readthedocs.io/en/7.5.3/
+
 https://github.com/google/atheris
+
 https://bandit.readthedocs.io/en/latest/
 
 

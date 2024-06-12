@@ -1,5 +1,5 @@
-# NYCU-Software-Testing-Final-project
-> Stock Bot implementing a line bot by TDD
+# Stock Bot implementing a line bot by TDD
+> NYCU-Software-Testing-Final-project
 
 ## 股票機器人的功能:
 

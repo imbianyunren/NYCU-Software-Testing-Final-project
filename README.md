@@ -71,6 +71,8 @@ cd Stockbot
 pip install pandas matplotlib twstock mplfinance pyimgur beautifulsoup4 requests
 ```
 
+---
+
 ### Unittest With Coverage.py
 
 #### Install Coverage.py
@@ -109,6 +111,8 @@ coverage html
 coverage report
 ```
 
+---
+
 ### Atheris Fuzz Testing
 
 #### **Atheris need to execute in Linux/Mac enviroment!!!!**
@@ -141,6 +145,8 @@ There are some Known Errors because of third party APIs or Database request:
 * imgur ⇒ Upload limit of 50 images per hour
 
 * 台灣證券交易所資料庫(TWSE) ⇒ Request limit of 3 requests every 5 seconds, will be banned if exceeded
+
+---
  
 ## 實做結果
 
@@ -150,9 +156,13 @@ Reached **100%** coverage on every function in StockAPI
 
 You can also watch the details on the `Stockbot\htmlcov\index.html` from your Browser!
 
+---
+
 ## Demo 畫面
 
 ![939c5226-b6b9-4be1-b2dc-9d7272bb9694 (1)](https://github.com/Jim890227/NYCU-Software-Testing-Final-project/assets/60705979/4b393d6c-2cb2-4721-a80f-8f1011ec8254)
+
+---
 
 ## Reference
 

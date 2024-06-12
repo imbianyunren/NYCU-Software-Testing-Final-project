@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stock-line-bot-425402",
+  "private_key_id": "5ef006a7e5653d92ab169461520b8bfb9a40af1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJ5ws4N8Dd5cyW\njHxvxsVUwPe8iM2g1oRP0Uu5qo+P+tmmJBqsah6y/o7JQpGZlT0C4MTUm+W1mW73\nC//RdbaMbd+1IVmz6+QKAm6h0lAvXW2g0GdSCe6noizSEO+cCExylimoa5SXAC9i\n9+qWtgS5ZaLYyJAC6vFG5Ha+4m386l+pBhlKlOO2tdewkeLHr5vAi7G5xb1dswLu\n6H+DYLZrYnxBcVeL9H27wuCVJydXfhpyfkZkx5TojskXNbe5oAzvDlbySI9Ocy31\n/9xdolsUK/s5S6aHhYfrIS+1ARALXK0KgjyQlJVCoK88AqA12hjBHOO0CK7cUnGI\nVKLJijrvAgMBAAECggEAAbrquOVn0BiTOdcKWfFCHG/RSUEcdS+UnEdKEG7XVbLr\nzb8RdQv6J16D3ewMHPZo1Dvic+mO4yqyOlVUykUcw1qA4drfTraYX0P8eFAgQvrY\nYNoB7w09Ixw1dh3Fb99CVT9w+L7mdXf/vMFf6UEcctpEHJRBzhFlVk4u4x13NwU0\nCZ0lhfG0G020j83FoWX2xMB2Ar4IKOqNB2WTVFwFHtouNkg42hPSz+FnjRNsLhQg\nc5Ia8WyZISpekJepDUwca1FqN98f8tCsSIbG4fizY/zFuUNUa0Wztlb6heiqH+uD\nrPhNHV+/+EYzTZz412NUyXaTJdpi2sQ9BRzo8muLQQKBgQDsVGkq6ITHFGoKzUx7\nsErD1tktMADMeMueKuIWLpo10nRLK4pfagpSWpjhSN8ENsEamCt0JaLISZi6bov+\n9kcYkqPIkAao0N/nvsRU3lSFqjs5DJl1M0qIYts7ecbNhXQlzFTsMF3AYujJsOe5\nhwVMcouvSKAsc0j/MdIMbwg2jQKBgQDatRN6d5EAGFpy2unyC4tsMMuDzqxHb7PR\nR5QeyQmoIaLy4V+0tsIDw+Q9QXHd4pqpMt4TAhaBydsxxqVTT/IQVhwuQNMfOXaC\n7xdU1NPG4L/XfecIZMST71fLWSLn0WCwmEL5L1GRw2DuvsNa2WtT97OR8gCesafP\nzrObw6ymawKBgQCE9WyBlnV1J3gNgbkg8WruyUZAFPyuDNvJrairACcEVtXUoLdl\nvNv3vz65qGzICyITGz9/RdlSQ42ofZ9Hnzkaiw2YPedxPKpr0DjW4oq89KwDCaKg\nfG3XU36x9G4znHxe85lnlEJ6hWsgZeXIzDzf6KXLxNlQiL+ty1K4ahM91QKBgQC4\nBH99HblNITCJTxRkab5Hq86w+mYOPThJMDa6qGCNrK+UOHj0bolT7bDOsZADJ7UG\nBBzCVZFmZtcdTIyySqPbhvhzGmwI66qBhHZXFDOUNGp2ACMx9sdHyaxPFpK+Bnea\nXqKLU3sIcCHQ/4UTnbgmkFXwyHQpEkWmHb8VolBUPQKBgHFy0LHTHK6+KJDC4iGk\nrwDMcfWPJYRmvBRF2qCRHYdBJZFmbdfhsq1eOHoJH2Mvb0EgJBkMBDl3+h+YCM7L\nYtr78LZmisX1vn2loEq3UEK+gMOeL5e2dS1lclleHe10fqP9+jst/wF7XbNUonhy\nDgvnY3WcOawNPL1dfL9CDqGY\n-----END PRIVATE KEY-----\n",
+  "client_email": "stock-line-bot@stock-line-bot-425402.iam.gserviceaccount.com",
+  "client_id": "108137189012271091175",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stock-line-bot%40stock-line-bot-425402.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

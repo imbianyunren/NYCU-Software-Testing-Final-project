@@ -23,7 +23,7 @@
 
 ## Attach to Testing Introduction of StockAPI 
 
-Will be uploaded AfterWard
+[Introduction PDF](https://drive.google.com/file/d/17N0HBYel48vyOjcOlCVPhWdvGu8HGbdx/view?usp=sharing)
 
 ---
 ## 檔案位置:
